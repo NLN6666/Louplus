@@ -58,7 +58,7 @@
 
 /* 1. Background */
   /* 1.a. Main Background */
-  .appMount-2yBXZl::before {
+ /* .appMount-2yBXZl::before {
     position: absolute;
     content: " ";
     height: 100%;
@@ -77,7 +77,7 @@
   
     /* 1.b. Transparency */
 
-  .layer-86YKbF, 
+  /*.layer-86YKbF, 
   .layers-OrUESM,
   .container-1eFtFS,
   .standardSidebarView-E9Pc3j .contentRegion-3HkfJJ,
